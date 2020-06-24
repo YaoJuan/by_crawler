@@ -1,0 +1,4 @@
+#!/usr/bin/env
+require_relative '../../lib/by_crawler'
+crawler = BYCrawler.new
+crawler.crawl
